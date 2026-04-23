@@ -33,9 +33,18 @@ This project demonstrates how to create multi-column text layouts similar to tra
 
 ---
 
-## 🚀 Getting Started
+## 👩‍💻 Developed With
 
-Clone the repository:
+This project is built using **HTML**, **CSS**, for further enhancements.
 
-```bash
-git clone https://github.com/behrokh-dev/newspaper.git
+---
+
+## 🤝 Contribution
+
+Contributions, suggestions, and creative ideas are always welcome — whether it's styling, animations, or feature additions.
+
+---
+
+## 📜 License
+
+If you decide to add a license, include it here (e.g., MIT License).
