@@ -33,12 +33,6 @@ This project demonstrates how to create multi-column text layouts similar to tra
 
 ---
 
-## 👩‍💻 Developed With
-
-This project is built using **HTML**, **CSS**, for further enhancements.
-
----
-
 ## 🤝 Contribution
 
 Contributions, suggestions, and creative ideas are always welcome — whether it's styling, animations, or feature additions.
