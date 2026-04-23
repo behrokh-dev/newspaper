@@ -7,7 +7,6 @@ This project demonstrates how to create multi-column text layouts similar to tra
 👉 https://behrokh-dev.github.io/newspaper/
 
 <img width="1901" height="870" alt="Image" src="https://github.com/user-attachments/assets/62526d31-b022-41ca-b2b9-efef96e2a5cd" />
-
 -
 <img width="1901" height="870" alt="Image" src="https://github.com/user-attachments/assets/82b2d86a-627e-4dd3-9ac0-357313b06b8e" />
 -
